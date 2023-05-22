@@ -1,5 +1,7 @@
 # Creating VLANs with CISCO
 In this tutorial, we will be creating a VLAN (Virtual Land Area Network) in the CISCO CLI.
+![image](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/assets/131632495/4c404384-527d-4791-a77d-5db79cdedcad)
+
 
 Here is a step-by-step guide to creating a VLAN on Cisco CLI (Command-Line Interface):
 
