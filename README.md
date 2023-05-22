@@ -2,6 +2,7 @@
 In this tutorial, we will be creating a VLAN (Virtual Land Area Network) in the CISCO CLI.
 ![image](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/assets/131632495/4c404384-527d-4791-a77d-5db79cdedcad)
 
+What are VLNAs? A VLAN (Virtual Local Area Network) is a virtual network infrastructure that allows you to logically segment a physical network into multiple isolated networks. It is created by grouping devices together based on certain criteria, such as department, function, or security requirements, regardless of their physical location within the network.
 
 Here is a step-by-step guide to creating a VLAN on Cisco CLI (Command-Line Interface):
 
@@ -59,4 +60,14 @@ Here is a step-by-step guide to creating a VLAN on Cisco CLI (Command-Line Inter
 
    Alternatively, you can use the shortcut command `copy running-config startup-config` or `copy run start`.
 
-That's it! You have successfully created a VLAN on a Cisco switch using the CLI. Remember to adjust the commands according to your specific network setup and VLAN requirements.
+That's it! You have successfully created a VLAN on a Cisco switch using the CLI.
+By leveraging VLANs, network administrators can efficiently manage and control network traffic, enhance security, improve performance, and adapt to changing network requirements. VLANs are a fundamental tool for network segmentation and play a crucial role in modern network architectures. Remember to adjust the commands according to your specific network setup and VLAN requirements.
+
+<div> What are some advantages a network has by leveraging VLANs? </div>
+<div> <b>Segmentation: </b> Separate devices into different networks for better performance, manageability, and security. </div>
+<div> <b> Security: </b> Isolate sensitive resources and restrict communication between devices. </div>
+<div> <b> Broadcast Control: </b> Limit broadcast traffic to each VLAN, improving network efficiency and stability. </div>
+<div> <b> Quality of Service (QoS): </b> Prioritize traffic and ensure a consistent user experience. </div>
+<div> <b> Flexibility and Scalability: </b> Easily add, move, or modify devices without rewiring the network. </div>
+<div> <b>Virtualization: </b> Create isolated virtual networks within a shared infrastructure. </div>
+<div> These VLAN benefits enhance network performance, security, efficiency, and flexibility. </div>
