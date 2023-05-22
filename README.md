@@ -1,6 +1,8 @@
 # Creating VLANs with CISCO
 In this tutorial, we will be creating a VLAN (Virtual Land Area Network) in the CISCO CLI.
-![image](https://github.com/ddeloya101/Creating-VLANs-with-CISCO/assets/131632495/4c404384-527d-4791-a77d-5db79cdedcad)
+<p align="center">
+<img src="https://i.imgur.com/QF54hvv.png" width = "370" height= "200">
+</p>
 
 What are VLNAs? A VLAN (Virtual Local Area Network) is a virtual network infrastructure that allows you to logically segment a physical network into multiple isolated networks. It is created by grouping devices together based on certain criteria, such as department, function, or security requirements, regardless of their physical location within the network.
 
