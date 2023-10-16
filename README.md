@@ -4,7 +4,7 @@ In this tutorial, we will be creating a VLAN (Virtual Land Area Network) in the 
 <img src="https://i.imgur.com/QF54hvv.png" width = "370" height= "200">
 </p>
 
-What are VLNAs? A VLAN (Virtual Local Area Network) is a virtual network infrastructure that allows you to logically segment a physical network into multiple isolated networks. It is created by grouping devices together based on certain criteria, such as department, function, or security requirements, regardless of their physical location within the network.
+What are VLANs? A VLAN (Virtual Local Area Network) is a virtual network infrastructure that allows you to logically segment a physical network into multiple isolated networks. It is created by grouping devices together based on certain criteria, such as department, function, or security requirements, regardless of their physical location within the network.
 
 Here is a step-by-step guide to creating a VLAN on Cisco CLI (Command-Line Interface):
 
